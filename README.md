@@ -11,7 +11,11 @@ A standalone Foundry VTT module that synchronizes gigs from Night City Map into 
 
 ## Installation
 
-Install this folder as `Data/modules/night-city-map-forien-quest-log-bridge` and enable it with both required modules. 
+Unzip the release folder to the `Data\Modules` folder in your Foundry instance - `Data/modules/night-city-map-forien-quest-log-bridge`. Enable the module . 
+
+Or install through Foundry with the manifest: https://github.com/Shepskii/night-city-map-night-city-messenger-bridge/releases/latest/download/module.json
+
+While loaded in your World, enable Night City Map - Forien's Quest Log Bridge in the Module Management.
 
 ## Features
 
