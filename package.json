@@ -1,0 +1,9 @@
+{
+  "name": "night-city-map-forien-quest-log-bridge",
+  "version": "0.2.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
