@@ -1,5 +1,9 @@
 # Night City Map - Forien's Quest Log Bridge
 
+![Foundry v12](https://img.shields.io/badge/Foundry-v12-informational)
+![System](https://img.shields.io/badge/system-cyberpunk--red--core-e5233d)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 A standalone Foundry VTT module that synchronizes gigs from Night City Map into Forien's Quest Log.
 
 ## Requirements
